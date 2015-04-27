@@ -7,7 +7,7 @@ $form ="<p>Or paste yout json text here and click submit:" +
     '<form action="/textinput"  method="POST" id="textform">' +
     '<input type="submit">' +
     '</form>' +
-    '<textarea rows="4" cols="50" name="text" form="textform">' +
+    '<textarea rows="50" cols="150" name="text" form="textform">' +
     '</textarea>'
 
 $upload = "<p>Please upload another json file:" +
