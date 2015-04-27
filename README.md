@@ -33,6 +33,8 @@ It should output like this:
 ```
 >  The graph of "tree.json" is output to "tree.json.svg"
 ```
+The graph looks like ![this](/tree.json.png)
+
 We suggest you use a browser to open that `.svg` file.
 
 # Ref
