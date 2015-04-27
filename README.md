@@ -1,6 +1,6 @@
 # DrawABTree
 ## Prerequisites
-* You need to have the python2.7 and the [http://www.graphviz.org/ graphviz] to make the script work.
+* You need to have the python2.7 and the [graphviz](http://www.graphviz.org/) to make the script work.
   * To install the graphviz on Linux machine: `sudo apt-get install graphviz`
 * You need to provide a valid format of JSON file such as this:
 ```
